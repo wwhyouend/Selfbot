@@ -38,3 +38,5 @@ Utility commands:
 
 
 Made for educational purposes only, I do not encourage any of illegal activities.
+
+(additional : to disable the splash, you need to pay 0.05$)
