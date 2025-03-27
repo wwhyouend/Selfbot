@@ -8,26 +8,28 @@ Rules:
 
 # Commands
 
+> Prefix = `>`
+
 Raid commands :
 
-- >spam
-- >channel (channel_name)
-- >del_role
-- >role (role_name)
-- >massive_ban
+- spam
+- channel (channel_name)
+- del_role
+- role (role_name)
+- massive_ban
 
 Fun commands:
 
-- >8ball
-- >blackjack
-- >random_meme
+- 8ball
+- blackjack
+- random_meme
 
 Utility commands:
 
-- >token_check
-- >grab_token
-- >ddos (ip)
-- >fetch (ip)
+- token_check
+- grab_token
+- ddos (ip)
+- fetch (ip)
 
 
 
